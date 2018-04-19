@@ -1,0 +1,54 @@
+main {
+
+
+}
+
+.rating-green {
+  color: Chartreuse;
+}
+
+.rating-amber {
+  color: gold;
+}
+
+.rating-red {
+  color: red;
+}
+
+.center-item {
+ margin-bottom: 20px;
+ margin-left: 10px;
+ margin-right: 10px;
+}
+.left-item {
+  margin-bottom: 10px;
+}
+
+.blank-space {
+  margin-top: 70px;
+}
+
+.review-nav {
+  top: 10%;
+  width: 350px;
+
+
+
+}
+
+ul {
+  padding-left: 5px;
+  padding-right: 5px;
+  justify-content: flex-start;
+}
+li {
+  padding-left: 5px;
+  padding-right: 5px;
+  justify-content: flex-start;
+
+}
+
+.section-start {
+
+  margin-top: 500px;
+}
